@@ -1,0 +1,9 @@
+[submodule "libs/keyswitch-kicad-library"]
+	path = libs/keyswitch-kicad-library
+	url = git@github.com:perigoso/keyswitch-kicad-library.git
+[submodule "libs/rhais_cherry.pretty"]
+	path = libs/rhais_cherry.pretty
+	url = git@github.com:dragonmux/rhais_cherry.pretty.git
+[submodule "libs/kicad_lib_tmk"]
+	path = libs/kicad_lib_tmk
+	url = git@github.com:tmk/kicad_lib_tmk.git
