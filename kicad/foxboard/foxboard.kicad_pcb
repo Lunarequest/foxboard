@@ -1900,7 +1900,7 @@
 
   (footprint "teensy:Teensy41" (layer "F.Cu")
     (tstamp 1e5361c2-d2a1-4c54-aa2e-77139b0f022c)
-    (at 50.4575 191.185)
+    (at 300.99 320.04)
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
     (path "/19aa5ecc-0ed4-4ac3-b773-9b7a58c0d9cc")
@@ -6098,7 +6098,7 @@
 
   (footprint "Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A" (layer "F.Cu")
     (tstamp 76eb364b-6920-43ab-bd0f-db6493a39952)
-    (at 185.3775 208.475)
+    (at 12.56 245.58)
     (descr "USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A")
     (tags "USB C Type-C Receptacle Hybrid")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10583,7 +10583,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.25u" (layer "F.Cu")
     (tstamp eabf4672-baf0-464b-87eb-bca263f928ba)
-    (at -2.54 353.06)
+    (at 5.08 337.82)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
