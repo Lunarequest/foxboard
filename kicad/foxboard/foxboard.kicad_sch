@@ -5466,7 +5466,7 @@
     (property "Value" "D" (at 328.93 48.26 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 326.39 46.99 0)
+    (property "Footprint" "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (at 326.39 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 326.39 46.99 0)
