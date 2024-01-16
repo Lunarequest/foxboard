@@ -280,7 +280,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 01217c9e-07f4-4d4f-a58a-61809605d186)
-    (at 88.7275 71.235)
+    (at 137.16 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -338,7 +338,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.75u" (layer "F.Cu")
     (tstamp 025128d0-f54f-430e-8f88-47e4cad63330)
-    (at 196.72125 -9.445)
+    (at -3.81 298.45)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -455,7 +455,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 048607c0-115c-4cfa-b327-be1759e93f0e)
-    (at 129.0675 111.575)
+    (at 204.47 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -513,7 +513,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 062f4c47-6207-4328-b2ef-48ae62f867d9)
-    (at 28.2175 71.235)
+    (at 55.88 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -571,7 +571,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 0633ebd4-b6d1-4499-97d4-8da10422ccb1)
-    (at 169.4075 91.405)
+    (at 284.48 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -629,7 +629,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 06e81e44-7551-4bec-b380-a2e67bb602a4)
-    (at 181.0975 188.955)
+    (at 77.0375 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -749,7 +749,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.25u" (layer "F.Cu")
     (tstamp 073f640b-693c-4d9f-998d-fa8a5ece8f9c)
-    (at 191.95875 151.915)
+    (at 259.08 355.6)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -806,7 +806,7 @@
 
   (footprint "PCM_marbastlib-xp-plate-mx:Plate_MX_SPLIT-RSHIFT" (layer "F.Cu")
     (tstamp 088658b9-e88a-4c40-aad0-c21cbe8cf289)
-    (at 152.72625 172.075)
+    (at 1.27 336.55)
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
     (path "/235e16ad-f128-4727-bf82-a9ef98d25d9d")
@@ -951,7 +951,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 0d5c3882-13c3-49fd-951e-817971b42aa8)
-    (at 68.5575 151.915)
+    (at 41.91 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -1069,7 +1069,7 @@
 
   (footprint "PCM_marbastlib-mx:STAB_MX_2.75u" (layer "F.Cu")
     (tstamp 0fe1adb8-96b6-42a9-8bcd-a3f1966ed7a9)
-    (at 44.88625 210.735)
+    (at 252.25375 277.495)
     (descr "Footprint for Cherry Clip/Screw in type stabilizers, 2.75u")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -1175,7 +1175,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 110fc49f-d964-454b-a644-0c7c338bab2e)
-    (at 129.0675 71.235)
+    (at 166.37 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -1233,7 +1233,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 11c319bb-59d4-4454-96e6-87dc2198f230)
-    (at 68.5575 30.895)
+    (at 140.97 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -1291,7 +1291,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 11c73b0f-44b6-45da-bd89-0960db2913d6)
-    (at 169.4075 71.235)
+    (at 260.35 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -1469,7 +1469,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 134d49e8-8171-4977-be98-4cfde7c7aa70)
-    (at 169.4075 30.895)
+    (at 222.25 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -1587,7 +1587,7 @@
 
   (footprint "PCM_marbastlib-xp-plate-mx:Plate_MX_SPLIT-RSHIFT" (layer "F.Cu")
     (tstamp 19ef26e5-3c0c-4d3f-bcc9-4aed94fcd41b)
-    (at 152.72625 192.225)
+    (at 243.84 336.55)
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
     (path "/32546fb0-1bbe-4deb-8c69-b5cf852f33f4")
@@ -1672,7 +1672,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 1a7a3908-7fa0-4007-8eed-b9642a360207)
-    (at 184.1375 188.955)
+    (at 82.9825 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -1784,7 +1784,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 1d2010d6-57c1-4c60-9e5c-6d47ff97e600)
-    (at 149.2375 51.065)
+    (at 50.8 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -1842,7 +1842,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 1d91b9c5-76b3-4dc1-b2ac-626ddd245cae)
-    (at 68.5575 131.745)
+    (at 22.86 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -1900,7 +1900,7 @@
 
   (footprint "teensy:Teensy41" (layer "F.Cu")
     (tstamp 1e5361c2-d2a1-4c54-aa2e-77139b0f022c)
-    (at 300.99 320.04)
+    (at 355.6 220.98)
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
     (path "/19aa5ecc-0ed4-4ac3-b773-9b7a58c0d9cc")
@@ -2224,7 +2224,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 21c18267-e54f-4ec9-8317-3291ad3c707a)
-    (at 88.7275 30.895)
+    (at 99.06 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2282,7 +2282,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 21e8a172-36e3-4fac-adf5-8ccee84ddce0)
-    (at 181.0975 199.455)
+    (at 310.7175 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2342,7 +2342,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 222b4926-a786-4fc2-ac69-a6b78d651a91)
-    (at 169.4075 -9.445)
+    (at 174.625 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2400,7 +2400,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 25787bb5-ca91-4b5c-acf3-dd618916e4f0)
-    (at 169.4075 51.065)
+    (at 241.3 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2518,7 +2518,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 26eef76c-3b14-450c-9b7b-e7536bfc8933)
-    (at 108.8975 111.575)
+    (at 33.02 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2688,7 +2688,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 2ac1a477-b015-4af2-a0a7-b3df9e75e6dd)
-    (at 88.7275 111.575)
+    (at 175.26 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2746,7 +2746,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 2bf000c9-64c2-4eb8-9be9-b7a425d66062)
-    (at 28.2175 30.895)
+    (at 322.58 355.6)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2804,7 +2804,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 2ceb4410-586d-4591-b62a-434c09c617aa)
-    (at 129.0675 -9.445)
+    (at 90.17 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2862,7 +2862,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 2dacbaeb-41ae-4934-b934-006fd6b45c7b)
-    (at 184.1375 187.205)
+    (at 63.9325 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2922,7 +2922,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 2ea156cc-5c25-4bb0-bb77-bfe339620c94)
-    (at 68.5575 -9.445)
+    (at 102.87 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2980,7 +2980,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 2eec73c9-1aa4-4a82-a3e2-f86990b8283c)
-    (at 181.0975 187.205)
+    (at 52.9075 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -2991,11 +2991,11 @@
     (property "ki_keywords" "diode")
     (path "/8bb0250b-679a-417c-a3c4-016898438d05")
     (attr smd)
-    (fp_text reference "D3" (at 0 -1.05) (layer "F.SilkS")
+    (fp_text reference "D3" (at -0.4325 -1.27) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2648c724-2736-42e3-a976-f0feb7d933a7)
     )
-    (fp_text value "D" (at 0 1.05) (layer "F.Fab")
+    (fp_text value "D3" (at 0 1.05) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4d0c7d95-2584-48b2-ad97-fe7fd9fded4c)
     )
@@ -3040,7 +3040,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 33deeb33-0d39-4b5e-89b5-5b67215bf80f)
-    (at 184.1375 197.705)
+    (at 176.9625 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -3160,7 +3160,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 3472ef27-7f88-41fe-b7e2-677fc98aff91)
-    (at 184.1375 194.205)
+    (at 139.7 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -3220,7 +3220,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 36280ba3-bcfd-4795-9393-11478dfff3ff)
-    (at 48.3875 -9.445)
+    (at 151.13 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -3278,7 +3278,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 37991283-7c8b-4e8d-8740-2b65df0d3606)
-    (at 88.7275 151.915)
+    (at 213.36 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -3396,7 +3396,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 3920e831-6464-4f3e-a527-620371013802)
-    (at 181.0975 190.705)
+    (at 196.4175 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -3570,7 +3570,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 3c334f5e-76b3-4079-aa18-450c12086ff8)
-    (at 108.8975 71.235)
+    (at -5.08 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -3682,7 +3682,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 40f69f1a-8251-49f5-b691-64c00dfe2f98)
-    (at 28.2175 -9.445)
+    (at 284.48 355.6)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -3920,7 +3920,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 46bf2421-f3ee-4ada-9018-6530a4bb2dac)
-    (at 181.0975 195.955)
+    (at 267.5375 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -3980,7 +3980,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 471c7a03-9223-4ecb-8495-63b49fd0e640)
-    (at 108.8975 131.745)
+    (at 52.07 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4038,7 +4038,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 4760f177-9a69-4033-940d-f2ebf2a252cd)
-    (at 181.0975 197.705)
+    (at 291.2625 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4098,7 +4098,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 48607748-f515-4110-b5b1-f71745d25ae0)
-    (at 88.7275 -9.445)
+    (at 60.96 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4216,7 +4216,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 4aec640d-5b22-4aed-9286-1dbd30614105)
-    (at 68.5575 71.235)
+    (at 179.07 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4394,7 +4394,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 4c90dfb7-5221-4045-b588-53da6cd087e2)
-    (at 184.1375 190.705)
+    (at 101.6 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4454,7 +4454,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 4e1c350a-1ed6-481e-9f80-e44631a811ab)
-    (at 28.2175 131.745)
+    (at 113.03 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4632,7 +4632,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 5130c6bd-36bb-495e-959c-93fc3feb29f2)
-    (at 108.8975 151.915)
+    (at 71.12 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4690,7 +4690,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 5315d26d-a3b5-458a-a0ce-e898160552a7)
-    (at 48.3875 91.405)
+    (at 26.67 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4748,7 +4748,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 56f1e346-37ca-4583-bde5-3823fd74550a)
-    (at 181.0975 192.455)
+    (at 219.2775 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4808,7 +4808,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 56f9819b-815e-41dc-af8f-b16ff4d90e04)
-    (at 28.2175 111.575)
+    (at 93.98 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4926,7 +4926,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 59f03734-ac0f-431a-a688-cd570e2e86f0)
-    (at 184.1375 183.705)
+    (at 24.13 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -4986,7 +4986,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 5ec44c47-7688-4d44-8c55-356e8e167ad6)
-    (at 129.0675 131.745)
+    (at 223.52 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5104,7 +5104,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 62365b4e-8bc4-43d2-806a-7082df292259)
-    (at 187.1775 185.455)
+    (at 310.3125 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5284,7 +5284,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 65f7520a-8236-43e5-817b-0ff8906e54f8)
-    (at 129.0675 10.725)
+    (at 109.22 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5402,7 +5402,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 6d34b690-0001-4e58-bcce-f44e06e6fdb9)
-    (at 184.1375 192.455)
+    (at 120.65 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5462,7 +5462,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 6da6b262-1dcc-45d3-b025-6acc4f1ce68b)
-    (at 129.0675 30.895)
+    (at 128.27 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5520,7 +5520,7 @@
 
   (footprint "PCM_marbastlib-mx:STAB_MX_2.25u" (layer "F.Cu")
     (tstamp 6e355732-139e-4b01-90e4-2a4495e97fb8)
-    (at 201.45375 172.085)
+    (at -4.28625 318.135)
     (descr "Footprint for Cherry Clip/Screw in type stabilizers, 2.25u")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -5686,7 +5686,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 6fb7e07d-a704-455d-a358-18ab32b1fbac)
-    (at 149.2375 10.725)
+    (at -6.35 250.825)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5804,7 +5804,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 7250e49e-0cef-460c-b436-5028740c1bc3)
-    (at 88.7275 51.065)
+    (at 118.11 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5862,7 +5862,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 72647e17-3d7b-430a-bb95-9447e5d2c804)
-    (at 88.7275 131.745)
+    (at 194.31 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5980,7 +5980,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 74d092c3-afc9-4f56-b606-94e2d0d2f21f)
-    (at 28.2175 10.725)
+    (at 303.53 355.6)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6262,7 +6262,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 798573e6-0a37-4dc6-bd4b-5c6d0b717045)
-    (at 108.8975 10.725)
+    (at 285.75 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6380,7 +6380,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 7d988d12-50bf-4f1d-aedf-4e209cda23e6)
-    (at 68.5575 111.575)
+    (at 217.17 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6438,7 +6438,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 7f4c2068-4b78-4954-9aad-45319e39dc76)
-    (at 184.1375 199.455)
+    (at 196.85 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6558,7 +6558,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 8080b2c5-9b80-4b3e-a914-0461a37f64f4)
-    (at 68.5575 10.725)
+    (at 121.92 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6616,7 +6616,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 81e608c7-56ee-4922-8250-5480e2f9cb73)
-    (at 48.3875 131.745)
+    (at 64.77 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6674,7 +6674,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 82b40870-15bf-4fa6-a04c-09af16badbe3)
-    (at 129.0675 151.915)
+    (at 304.165 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6732,7 +6732,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp 82edecef-34f0-4502-bf78-ba75f575c0f4)
-    (at 184.1375 185.455)
+    (at 44.8825 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6852,7 +6852,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 85e1d44c-22c7-4bb4-b88e-788c3180f299)
-    (at 88.7275 10.725)
+    (at 80.01 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -6910,7 +6910,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 8a4885da-7e57-4a70-bc11-64f953f5e259)
-    (at 108.8975 51.065)
+    (at 323.85 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -7020,7 +7020,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 8e882e4b-bf2a-43da-92fe-d613195a8d50)
-    (at 108.8975 91.405)
+    (at 13.97 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -7078,7 +7078,7 @@
 
   (footprint "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_6.25u" (layer "F.Cu")
     (tstamp 9141fcac-5f24-4f03-b311-427da9783fa8)
-    (at 72.0575 171.009)
+    (at 115.57 355.6)
     (descr "Cherry MX PCB Stabilizer 6.25u")
     (tags "Cherry MX Keyboard Stabilizer 6.25u Cutout")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -7182,7 +7182,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 94ebcf30-a7d0-4be4-8214-8a75f12e98eb)
-    (at 48.3875 30.895)
+    (at 189.23 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -7240,7 +7240,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 984c4f6b-3e74-46b7-bd7b-99f9fba9a7a5)
-    (at 149.2375 30.895)
+    (at 31.75 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -7298,7 +7298,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 99408c82-fa03-4b2e-bda8-ac58e1a2a0bc)
-    (at 48.3875 10.725)
+    (at 170.18 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -7416,7 +7416,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 9bee3dce-2c66-4245-921b-4a4e9b395064)
-    (at 48.3875 51.065)
+    (at 208.28 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -7594,7 +7594,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.25u" (layer "F.Cu")
     (tstamp 9ee6149e-9505-41e5-be6d-0d102d6bafc4)
-    (at 191.95875 111.575)
+    (at 210.82 355.6)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -7651,7 +7651,7 @@
 
   (footprint "PCM_marbastlib-xp-plate-mx:Plate_MX_ANSI-ISO-ENTER" (layer "F.Cu")
     (tstamp 9ef9812b-4775-4116-a635-67ed83af8a9b)
-    (at 113.02875 201.33)
+    (at 258.445 308.61)
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
     (path "/08593341-7a18-4bc6-8895-f4a449d07505")
@@ -7764,7 +7764,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp 9efc1939-5a8a-48ce-89df-f14f3b3f16e8)
-    (at 129.0675 51.065)
+    (at 147.32 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -7942,7 +7942,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp a4045f4b-3041-4bdb-ad47-497af0f1cb22)
-    (at 48.3875 151.915)
+    (at 83.82 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -8052,7 +8052,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp af6179f4-89e7-43e2-b27e-b45beac4cf35)
-    (at 28.2175 51.065)
+    (at 36.83 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -8170,7 +8170,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp b135fcbe-59f0-4e29-9573-77652f6ceb09)
-    (at 184.1375 201.205)
+    (at 215.9 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -8290,7 +8290,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp b6ec17f5-43ad-4de9-8c7b-1a32386b9e63)
-    (at 169.4075 111.575)
+    (at 303.53 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -8348,7 +8348,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.25u" (layer "F.Cu")
     (tstamp be9ae2be-0de2-45ca-b3a6-6bedcaa8e72b)
-    (at 191.95875 71.235)
+    (at 43.18 355.6)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -8585,7 +8585,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp c24341b9-9af0-4e36-8e97-2ce16ec177c3)
-    (at 68.5575 91.405)
+    (at 198.12 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -8643,7 +8643,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.25u" (layer "F.Cu")
     (tstamp c3760179-b75e-4dc7-a307-96b6c7629b09)
-    (at 191.95875 91.405)
+    (at 186.69 355.6)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -8700,7 +8700,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.25u" (layer "F.Cu")
     (tstamp c3b32095-01fc-4b94-8aa5-a082fa290463)
-    (at 191.95875 51.065)
+    (at 19.05 355.6)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -8757,7 +8757,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp c3dc46d3-950a-417d-be8a-e2ef3b06f2d3)
-    (at 88.7275 91.405)
+    (at 156.21 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -8875,7 +8875,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp c49be01f-9f55-4df7-bb85-81bfc6dfdb6a)
-    (at 28.2175 91.405)
+    (at 74.93 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -8933,7 +8933,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp c5b4beb5-93c7-4e8c-9af2-2459f0a5655b)
-    (at 108.8975 -9.445)
+    (at 232.41 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -8991,7 +8991,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp c77ce88a-547e-4c17-bc49-02a326871a55)
-    (at 27.94 152.4)
+    (at 132.08 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -9049,7 +9049,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp c7aaaac7-cb2b-4dad-b983-3e3fd5f2115b)
-    (at 187.1775 183.705)
+    (at 266.2675 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -9109,7 +9109,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp c827ae44-9ddc-4c9c-81fd-539f13e353d1)
-    (at 149.2375 111.575)
+    (at 117.475 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -9167,7 +9167,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp cabc7889-53a1-4ee4-938e-52283e83b45d)
-    (at 149.2375 91.405)
+    (at 88.9 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -9345,7 +9345,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp cba56e90-0dd4-483f-bc2e-0f9bc7a2a8aa)
-    (at 149.2375 131.745)
+    (at 136.525 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -9523,7 +9523,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.75u" (layer "F.Cu")
     (tstamp d3226da9-ae6f-4ecf-afad-9e1417360042)
-    (at 196.72125 10.725)
+    (at 259.08 298.45)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -9640,7 +9640,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp d4fa2aba-0770-4e8a-8962-c674a65825fe)
-    (at 181.0975 201.205)
+    (at 329.7675 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -9700,7 +9700,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp d5f5908a-9d15-42e7-9120-5e196a3dbb0a)
-    (at 68.5575 51.065)
+    (at 160.02 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -9818,7 +9818,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.25u" (layer "F.Cu")
     (tstamp d70c9409-be1e-4798-a6a8-2c67659d95c5)
-    (at 191.95875 131.745)
+    (at 234.95 355.6)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -9875,7 +9875,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp d7dba168-5d2c-46ce-9f08-e40bd7cefbbc)
-    (at 149.2375 -9.445)
+    (at 323.215 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -9933,7 +9933,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp d86231de-f911-498b-8da8-37c073c756d8)
-    (at 108.8975 30.895)
+    (at 304.8 298.45)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10111,7 +10111,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp dbbc8223-13a9-43c3-b559-120732387adc)
-    (at 129.0675 91.405)
+    (at 185.42 279.4)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10229,7 +10229,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp df21bc69-4e9c-4399-820a-a5e3e0b3927d)
-    (at 181.0975 183.705)
+    (at 4.6475 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10349,7 +10349,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp e2bcf7d3-552c-48b7-a45e-b270a4ec9da5)
-    (at 169.4075 131.745)
+    (at 322.58 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10407,7 +10407,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp e5651172-bcbf-4e06-9a5b-a43175dd9669)
-    (at 184.1375 195.955)
+    (at 158.75 328.93)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10467,7 +10467,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp e58ee1cb-b55e-42ce-9e67-3229f250f90b)
-    (at 149.2375 71.235)
+    (at 69.85 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10525,7 +10525,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp e6b675c0-85b2-44e2-8b76-57d5da2d87b8)
-    (at 48.3875 111.575)
+    (at 45.72 317.5)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10583,7 +10583,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.25u" (layer "F.Cu")
     (tstamp eabf4672-baf0-464b-87eb-bca263f928ba)
-    (at 5.08 337.82)
+    (at -5.08 355.6)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
@@ -10760,7 +10760,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp ec86d704-4a31-4efa-adc1-e471644b11e9)
-    (at 48.3875 71.235)
+    (at 302.26 336.55)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10878,7 +10878,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp ef300278-a7c1-4ee6-8ac1-8bb533d8c76c)
-    (at 181.0975 185.455)
+    (at 29.6425 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -10889,11 +10889,11 @@
     (property "ki_keywords" "diode")
     (path "/5dbb7bc4-1748-4c4f-828b-819eb17db94e")
     (attr smd)
-    (fp_text reference "D2" (at 0 -1.05) (layer "F.SilkS")
+    (fp_text reference "D2" (at -176.45 163.225) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 32bdcfe6-b727-4286-b8dc-1ba7c98c2117)
     )
-    (fp_text value "D" (at 0 1.05) (layer "F.Fab")
+    (fp_text value "D2" (at 0 1.05) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 93bd9a27-6e93-4ffe-8309-9096df6445e2)
     )
@@ -11238,7 +11238,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp f5cb5c4a-ce36-46cd-ac6e-12bbf22afade)
-    (at 149.2375 151.915)
+    (at 155.575 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -11296,7 +11296,7 @@
 
   (footprint "Diode_SMD:D_0201_0603Metric_Pad0.64x0.40mm_HandSolder" (layer "F.Cu")
     (tstamp f8279599-d37d-40be-ba7c-a8d5f017b801)
-    (at 181.0975 194.205)
+    (at 243.4075 347.98)
     (descr "Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
     (tags "diode handsolder")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -11356,7 +11356,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp fe10bc72-dd3e-4bc7-b543-7ce14aebb978)
-    (at 169.4075 10.725)
+    (at 203.2 251.46)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
