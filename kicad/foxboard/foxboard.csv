@@ -1,0 +1,16 @@
+"Source:","/home/luna/Documents/keyboard-files/kicad/foxboard/foxboard.kicad_sch"
+"Date:","Tuesday 11 July 2023 07:00:14 PM"
+"Tool:","Eeschema 7.0.5"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","181"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP","Sim.Device","Sim.Pins"
+"1","4","C3, C4, C5, C6","0.1u","Device:C_Small","","~","","",""
+"2","1","C7","4.7i","Device:C_Small","","~","","",""
+"3","86","D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D80, D81, D82, D83, D84, D85, D86","D","Device:D","","~","","D","1=K 2=A"
+"4","1","J2","USB_C_Receptacle_USB2.0","Connector:USB_C_Receptacle_USB2.0","","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","","",""
+"5","86","K1, K2, K3, K4, K5, K6, K7, K8, K9, K10, K11, K12, K13, K14, K15, K16, K17, K18, K19, K20, K21, K22, K23, K24, K25, K26, K27, K28, K29, K30, K31, K32, K33, K34, K35, K36, K37, K38, K39, K40, K41, K42, K43, K44, K45, K46, K47, K48, K49, K50, K51, K52, K53, K54, K55, K56, K57, K58, K59, K60, K61, K62, K63, K64, K65, K66, K67, K68, K69, K70, K71, K72, K73, K74, K75, K76, K77, K78, K79, K80, K81, K82, K83, K84, K85, K86","KEYSW","keyboard_parts:KEYSW","","","","",""
+"6","2","R5, R6","5k1","Device:R","","~","","",""
+"7","1","U2","Teensy4.1","teensy:Teensy4.1","","","","",""
