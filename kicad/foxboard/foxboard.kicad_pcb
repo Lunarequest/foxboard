@@ -4910,7 +4910,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1u" (layer "F.Cu")
     (tstamp c5b4beb5-93c7-4e8c-9af2-2459f0a5655b)
-    (at 224.41505 287.1758)
+    (at 224.31 287.1758)
     (descr "Footprint for Cherry MX style switches")
     (tags "cherry mx switch")
     (property "Sheetfile" "foxboard.kicad_sch")
@@ -5200,7 +5200,7 @@
 
   (footprint "PCM_marbastlib-mx:SW_MX_1.5u" (layer "F.Cu")
     (tstamp d3226da9-ae6f-4ecf-afad-9e1417360042)
-    (at 248.08785 287.02)
+    (at 248.31 287.25)
     (descr "Footprint for Cherry MX style switches")
     (property "Sheetfile" "foxboard.kicad_sch")
     (property "Sheetname" "")
