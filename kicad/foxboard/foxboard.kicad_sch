@@ -7297,7 +7297,7 @@
     (property "Value" "KEYSW" (at 120.65 118.11 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Footprint" "Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_6.25u" (at 120.65 115.57 0)
+    (property "Footprint" "rhais_cherry:MX_KEY_4.45" (at 120.65 115.57 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 120.65 115.57 0)
