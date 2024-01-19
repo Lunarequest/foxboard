@@ -16,3 +16,6 @@
 [submodule "libs/teensy_library"]
 	path = libs/teensy_library
 	url = git@github.com:XenGi/teensy_library.git
+[submodule "libs/rhais_usb.pretty"]
+	path = libs/rhais_usb.pretty
+	url = git@github.com:dragonmux/rhais_usb.pretty.git
