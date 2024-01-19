@@ -1,3 +1,5 @@
 (sym_lib_table
   (version 7)
+  (lib (name "keyboard_parts")(type "Legacy")(uri "/home/luna/foxboard/libs/kicad_lib_tmk/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "mkl27z256vfm4")(type "Legacy")(uri "/home/luna/foxboard/libs/kicad_lib_tmk/mkl27z256vfm4.lib")(options "")(descr ""))
 )
