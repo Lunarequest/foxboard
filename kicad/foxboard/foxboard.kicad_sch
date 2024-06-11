@@ -10542,7 +10542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "custom:RESC1608X55N"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 254 160.528 90)
 			(effects
 				(font
@@ -17277,7 +17277,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C2875153"
+		(property "MPN" "C24372"
 			(at 45.72 86.36 90)
 			(effects
 				(font
@@ -18476,7 +18476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "custom:RESC1608X55N"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 254 157.988 90)
 			(effects
 				(font
