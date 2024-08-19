@@ -23,7 +23,7 @@ static HEAP: Heap = Heap::empty();
 #[rtic::app(device = teensy4_bsp, peripherals = true, dispatchers = [KPP])]
 mod app {
     use bsp::board;
-    use teensy4_bsp as bsp;
+    use teensy4_bsp::{self as bsp};
 
     use imxrt_log as logging;
 
@@ -34,8 +34,16 @@ mod app {
     use crate::usb::USBEvent;
     use alloc::collections::vec_deque::VecDeque;
     use rtic_monotonics::systick::{Systick, *};
+    use teensy4_bsp::{
+        hal::{gpio, iomuxc},
+        pins,
+    };
 
-    /// There are no resources shared across tasks.
+    type Input = gpio::Input<pins::t41::P7>;
+
+    const PIN_CONFIG: iomuxc::Config =
+        iomuxc::Config::zero().set_pull_keeper(Some(iomuxc::PullKeeper::Pulldown100k));
+
     #[shared]
     struct Shared {
         event: VecDeque<USBEvent>,
@@ -44,6 +52,7 @@ mod app {
     /// These resources are local to individual tasks.
     #[local]
     struct Local {
+        input: Input,
         /// The LED on pin 13.
         led: board::Led,
         /// A poller to control USB logging.
@@ -54,12 +63,15 @@ mod app {
     fn init(cx: init::Context) -> (Shared, Local) {
         let board::Resources {
             mut gpio2,
-            pins,
+            mut pins,
             usb,
             ..
         } = my_board(cx.device);
 
         let led = board::led(&mut gpio2, pins.p13);
+
+        iomuxc::configure(&mut pins.p7, PIN_CONFIG);
+        let input = gpio2.input(pins.p7);
 
         let poller = logging::log::usbd(usb, logging::Interrupts::Enabled).unwrap();
 
@@ -68,32 +80,26 @@ mod app {
             board::ARM_FREQUENCY,
             rtic_monotonics::create_systick_token!(),
         );
+        log::info!("init complete");
 
         blink::spawn().unwrap();
         (
             Shared {
                 event: VecDeque::new(),
             },
-            Local { led, poller },
+            Local { led, poller, input },
         )
     }
 
-    #[task(local = [led])]
+    #[task(local = [led, input,])]
     async fn blink(cx: blink::Context) {
-        let mut count = 0u32;
+        log::info!("Hello from your Teensy 41!");
+        let blink::LocalResources { led, input, .. } = cx.local;
         loop {
-            cx.local.led.toggle();
-            Systick::delay(500.millis()).await;
-
-            log::info!("Hello from your Teensy 4! The count is {count}");
-            if count % 7 == 0 {
-                log::warn!("Here's a warning at count {count}");
-            }
-            if count % 23 == 0 {
-                log::error!("Here's an error at count {count}");
-            }
-
-            count = count.wrapping_add(1);
+            led.set();
+            let status = input.is_set();
+            log::info!("the input status is {status}");
+            led.clear();
         }
     }
 
