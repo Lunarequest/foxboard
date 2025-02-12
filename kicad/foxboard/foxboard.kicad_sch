@@ -6670,6 +6670,28 @@
 			)
 		)
 	)
+	(global_label "row 6"
+		(shape input)
+		(at 224.79 219.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "19ebcb20-46db-488d-924b-f5f795ce2433")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 233.218 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "col 16"
 		(shape input)
 		(at 373.38 22.86 90)
@@ -6934,28 +6956,6 @@
 			)
 		)
 	)
-	(global_label "row 5"
-		(shape input)
-		(at 224.79 229.87 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6107e1c5-6cf5-44b0-aba7-8d39ed43009d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.218 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "col 5"
 		(shape input)
 		(at 127 21.59 90)
@@ -7057,28 +7057,6 @@
 		(uuid "7791923e-5674-4afa-9155-055564c52ebb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 323.85 14.8554 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "row 6"
-		(shape input)
-		(at 224.79 232.41 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "77e96c9e-2ba7-4c13-9543-d85b0179203b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.218 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7436,6 +7414,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row 5"
+		(shape input)
+		(at 224.79 222.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce395cdf-1567-46fb-adba-e264b3127f1b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 233.218 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
