@@ -19,3 +19,9 @@
 [submodule "libs/rhais_usb.pretty"]
 	path = libs/rhais_usb.pretty
 	url = git@github.com:dragonmux/rhais_usb.pretty.git
+[submodule "libs/kb2040-kicad"]
+	path = libs/kb2040-kicad
+	url = git@github.com:drewgates/kb2040-kicad.git
+[submodule "libs/Adafruit-RP2040-KiCAD"]
+	path = libs/Adafruit-RP2040-KiCAD
+	url = git@github.com:bluepylons/Adafruit-RP2040-KiCAD.git
