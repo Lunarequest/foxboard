@@ -637,13 +637,7 @@
           "group_by": false,
           "label": " MPN",
           "name": " MPN",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "LCSC",
-          "name": "LCSC",
-          "show": true
+          "show": false
         }
       ],
       "filter_string": "",
@@ -702,7 +696,7 @@
         "uuid": "06390bb7-84c9-4afb-a691-da3db02fcaf4"
       }
     ],
-    "used_designators": "D1-86,D88",
+    "used_designators": "R8-10,#PWR18-19,#PWR25,#PWR27-28,SW1,C16-17,C20,D1-86,D88",
     "variants": []
   },
   "sheets": [
