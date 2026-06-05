@@ -696,13 +696,17 @@
         "uuid": "06390bb7-84c9-4afb-a691-da3db02fcaf4"
       }
     ],
-    "used_designators": "R8-10,#PWR18-19,#PWR25,#PWR27-28,SW1,C16-17,C20,D1-86,D88",
+    "used_designators": "S30,S63-64,S75,S80,K1-87,D1-86,D88",
     "variants": []
   },
   "sheets": [
     [
       "06390bb7-84c9-4afb-a691-da3db02fcaf4",
       "foxboard"
+    ],
+    [
+      "ce8fb7a4-fb58-4ec0-aedb-2c46bd8ec17a",
+      "switch_matrix"
     ]
   ],
   "text_variables": {},
