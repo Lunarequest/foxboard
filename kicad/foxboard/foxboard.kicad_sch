@@ -5731,6 +5731,12 @@
 		(uuid "7311939b-1be0-4f30-a3c0-71e68c1253cf")
 	)
 	(junction
+		(at 303.53 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "78a2ce2d-11c3-45ba-880a-4939e75fcdb8")
+	)
+	(junction
 		(at 295.91 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5966,6 +5972,16 @@
 	)
 	(wire
 		(pts
+			(xy 303.53 148.59) (xy 303.53 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "060d8725-c62e-4881-9d90-83e79269f47b")
+	)
+	(wire
+		(pts
 			(xy 204.47 67.31) (xy 204.47 72.39)
 		)
 		(stroke
@@ -6123,6 +6139,16 @@
 			(type default)
 		)
 		(uuid "28f65328-71ea-4848-baf7-8df8cf0641d2")
+	)
+	(wire
+		(pts
+			(xy 294.64 148.59) (xy 303.53 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "297b9207-cb8c-4c4e-afe5-c21833765134")
 	)
 	(wire
 		(pts
@@ -6696,7 +6722,7 @@
 	)
 	(wire
 		(pts
-			(xy 303.53 144.78) (xy 303.53 143.51)
+			(xy 303.53 151.13) (xy 303.53 148.59)
 		)
 		(stroke
 			(width 0)
@@ -15078,7 +15104,7 @@
 	(symbol
 		(lib_name "GND_9")
 		(lib_id "power:GND")
-		(at 303.53 144.78 0)
+		(at 303.53 151.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15089,7 +15115,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6dc0947-e3fc-41f3-b355-bbfc99847e22")
 		(property "Reference" "#PWR018"
-			(at 303.53 151.13 0)
+			(at 303.53 157.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15100,7 +15126,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 303.53 149.86 0)
+			(at 303.53 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15110,7 +15136,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 303.53 144.78 0)
+			(at 303.53 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15121,7 +15147,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 303.53 144.78 0)
+			(at 303.53 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15132,7 +15158,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 303.53 144.78 0)
+			(at 303.53 151.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
