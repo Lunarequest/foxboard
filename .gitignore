@@ -1,1 +1,24 @@
+# --- OS / editor junk ---
+.DS_Store
+**/.DS_Store
+Thumbs.db
+.history/
+**/.history/
+
+# --- KiCad temporary / autosave files ---
+*.000
+*.bak
+*-bak
+*~
+_autosave-*
+*.tmp
+
+# --- KiCad lock files ---
+*.lck
+~*.lck
+
+# --- KiCad cache (regenerated locally) ---
+fp-info-cache
+
+# --- KiCad auto-backup archives ---
 *-backups/
