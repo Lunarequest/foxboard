@@ -8931,6 +8931,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 274.32 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f491d6e1-a67d-4185-bffa-13f7171521a1")
 		)
@@ -9114,6 +9125,17 @@
 			)
 		)
 		(property "LCSC" "C16193311"
+			(at 166.37 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KP5VPNC"
 			(at 166.37 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -9316,6 +9338,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05C150JB5NNNC"
+			(at 36.83 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b503d5c2-e980-4628-ab0a-7a40ea246065")
 		)
@@ -9431,6 +9464,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 113.03 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7e38a554-98b4-494e-a5ff-d379b0d77014")
 		)
@@ -9534,6 +9578,17 @@
 			)
 		)
 		(property "LCSC" "C2989674"
+			(at 129.54 242.57 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TC0225B1001TCC"
 			(at 129.54 242.57 90)
 			(hide yes)
 			(show_name no)
@@ -9781,7 +9836,7 @@
 				)
 			)
 		)
-		(property "MPN" "C416112 "
+		(property "MPN" "0402WGF5101TCE"
 			(at 312.42 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -9896,6 +9951,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 307.34 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW040227R0JNED"
+			(at 307.34 138.43 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10125,6 +10191,17 @@
 			)
 		)
 		(property "LCSC" "C16193311"
+			(at 179.07 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KP5VPNC"
 			(at 179.07 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -10527,6 +10604,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 127 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ca20abf2-f5c7-4b72-a501-8bb64643e4f7")
 		)
@@ -10822,6 +10910,17 @@
 			)
 		)
 		(property "LCSC" "C2040"
+			(at 90.17 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RP2040"
 			(at 90.17 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -11232,6 +11331,17 @@
 				)
 			)
 		)
+		(property "MPN" "CRCW040227R0JNED"
+			(at 279.4 147.32 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c08fcf7d-ed38-41fd-8347-07520cc140e9")
 		)
@@ -11424,6 +11534,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 313.69 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9b2eeff2-3e0d-43aa-bd03-f94bc1476225")
 		)
@@ -11527,6 +11648,17 @@
 			)
 		)
 		(property "LCSC" "C2842186"
+			(at 52.07 224.79 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "ABM8-272-T3"
 			(at 52.07 224.79 90)
 			(hide yes)
 			(show_name no)
@@ -11648,6 +11780,17 @@
 			)
 		)
 		(property "LCSC" "C165948"
+			(at 334.01 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TYPE-C-31-M-12"
 			(at 334.01 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -11798,6 +11941,17 @@
 			)
 		)
 		(property "LCSC" "C2989674"
+			(at 60.96 229.87 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TC0225B1001TCC"
 			(at 60.96 229.87 90)
 			(hide yes)
 			(show_name no)
@@ -12077,6 +12231,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 43.18 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2b3759ba-1d20-47bb-94e6-d922ff23c62d")
 		)
@@ -12271,6 +12436,17 @@
 				)
 			)
 		)
+		(property "MPN" "W25Q128JVSIQ"
+			(at 156.21 250.19 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "16dba6d8-723c-4550-8507-ee35aeb99ab4")
 		)
@@ -12359,6 +12535,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 279.4 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CRCW040227R0JNED"
+			(at 279.4 138.43 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12471,6 +12658,17 @@
 			)
 		)
 		(property "LCSC" "C20546"
+			(at 270.51 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "NCP1117STAT3G"
 			(at 270.51 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -12676,6 +12874,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A106MP5NUNC"
+			(at 287.02 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "90393d6e-e770-43a4-a881-a93030f07fbf")
 		)
@@ -12858,6 +13067,17 @@
 			)
 		)
 		(property "LCSC" "C16193311"
+			(at 204.47 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KP5VPNC"
 			(at 204.47 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -13141,6 +13361,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 53.34 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "06ff9daf-3d78-4480-a2b1-c17b6cbd3779")
 		)
@@ -13254,6 +13485,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05C150JB5NNNC"
+			(at 36.83 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3295601d-64ea-472f-b212-9d2333781abe")
 		)
@@ -13333,7 +13575,7 @@
 				)
 			)
 		)
-		(property "MPN" "C416112"
+		(property "MPN" "0402WGF5101TCE"
 			(at 312.42 64.77 90)
 			(hide yes)
 			(show_name no)
@@ -13492,6 +13734,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 140.97 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dc04ed7b-56b7-40f9-9d83-0e4e7f37dbc6")
 		)
@@ -13597,6 +13850,17 @@
 			)
 		)
 		(property "LCSC" "C315248"
+			(at 254 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05A106MP5NUNC"
 			(at 254 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -13722,6 +13986,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05A105KO5NNNC"
+			(at 128.27 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dbdb59c8-a94f-4eef-8ca3-cef19fff4b03")
 		)
@@ -13825,6 +14100,17 @@
 			)
 		)
 		(property "LCSC" "C11702"
+			(at 140.97 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RCS1005J270CS"
 			(at 140.97 85.09 90)
 			(hide yes)
 			(show_name no)
@@ -14107,6 +14393,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 165.1 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "18afc430-8f92-45a8-bf3a-edc5403329fc")
 		)
@@ -14290,6 +14587,17 @@
 			)
 		)
 		(property "LCSC" "C16193311"
+			(at 191.77 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KP5VPNC"
 			(at 191.77 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14556,7 +14864,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "cea7e2ba-420d-4ec0-b6b8-b700afd131e6")
 		(property "Reference" "SW1"
@@ -14813,6 +15121,17 @@
 				)
 			)
 		)
+		(property "MPN" "RCS1005J270CS"
+			(at 140.97 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b428a0f0-eb7a-40df-b851-4490ea247147")
 		)
@@ -14918,6 +15237,17 @@
 			)
 		)
 		(property "LCSC" "C29266"
+			(at 60.96 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05A105KO5NNNC"
 			(at 60.96 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -15280,6 +15610,17 @@
 				)
 			)
 		)
+		(property "MPN" "CL05B104KP5VPNC"
+			(at 153.67 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0c63aa94-5a7b-4d30-8d00-1df185c933c5")
 		)
@@ -15542,6 +15883,17 @@
 			)
 		)
 		(property "LCSC" "C16193311"
+			(at 274.32 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "CL05B104KP5VPNC"
 			(at 274.32 152.4 0)
 			(hide yes)
 			(show_name no)
